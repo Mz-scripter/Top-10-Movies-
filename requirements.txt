@@ -1,0 +1,9 @@
+Flask
+Gunicorn
+Flask-Bootstrap
+Flask-SQLAlchemy
+Flask-WTF
+WTForm
+requests
+datetime3
+Datetime
